@@ -1,0 +1,4 @@
+# exclude everything except directory student*_school*
+/*
+!/.gitignore
+!/student*_school*
