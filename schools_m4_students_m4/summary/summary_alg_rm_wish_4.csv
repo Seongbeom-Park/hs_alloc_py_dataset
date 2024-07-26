@@ -1,0 +1,4 @@
+distriction,algorithm,1,2,3,4,random,forbidden,output_csv_list
+perfect,rm,4.0,0.0,0.0,0.0,0.0,0.0,"['dataset/schools_m4_students_m4/output/output_schools_m4_students_m4_perfect_alg_rm_tags_mf_wish_4_aseed_0.csv', 'dataset/schools_m4_students_m4/output/output_schools_m4_students_m4_perfect_alg_rm_tags_mf_wish_4_aseed_1.csv']"
+balanced,rm,2.0,2.0,0.0,0.0,0.0,0.0,"['dataset/schools_m4_students_m4/output/output_schools_m4_students_m4_balanced_alg_rm_tags_mf_wish_4_aseed_0.csv', 'dataset/schools_m4_students_m4/output/output_schools_m4_students_m4_balanced_alg_rm_tags_mf_wish_4_aseed_1.csv']"
+unbalanced,rm,2.0,1.0,0.0,1.0,0.0,0.0,"['dataset/schools_m4_students_m4/output/output_schools_m4_students_m4_unbalanced_alg_rm_tags_mf_wish_4_aseed_0.csv', 'dataset/schools_m4_students_m4/output/output_schools_m4_students_m4_unbalanced_alg_rm_tags_mf_wish_4_aseed_1.csv']"
